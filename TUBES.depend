@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1525073692 source:e:\kuliah\tubes\list_child.cpp
+	"list_child.h"
+
+1525067931 e:\kuliah\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+	"list_relasi.h"
+
+1525076359 source:e:\kuliah\tubes\list_parent.cpp
+	"list_parent.h"
+
+1525067931 e:\kuliah\tubes\list_parent.h
+	<iostream>
+
+1525075873 source:e:\kuliah\tubes\list_relasi.cpp
+	"list_relasi.h"
+
+1525067931 e:\kuliah\tubes\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1525074246 source:e:\kuliah\tubes\main.cpp
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+	"sub_main.h"
+
+1524995547 source:c:\users\ryan\downloads\tubes\tubes\list_parent.cpp
+	"list_parent.h"
+
+1524939059 c:\users\ryan\downloads\tubes\tubes\list_parent.h
+	<iostream>
+
+1524945795 source:c:\users\ryan\downloads\tubes\tubes\main.cpp
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+	"sub_main.h"
+
+1524947509 c:\users\ryan\downloads\tubes\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+	"list_relasi.h"
+
+1524937597 c:\users\ryan\downloads\tubes\tubes\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1524947607 source:c:\users\ryan\downloads\tubes\tubes\list_child.cpp
+	"list_child.h"
+
+1524994532 source:c:\users\ryan\downloads\tubes\tubes\list_relasi.cpp
+	"list_relasi.h"
+
+1524945142 source:c:\users\ryan\downloads\tubes\tubes\sub_main.cpp
+	"sub_main.h"
+
+1524944535 c:\users\ryan\downloads\tubes\tubes\sub_main.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+
+1525061972 e:\kuliah\tubes\sub_main.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+
+1525076031 source:e:\kuliah\tubes\sub_main.cpp
+	"sub_main.h"
+
+1525155368 source:c:\users\ryankoko\downloads\tubes\tubes\list_child.cpp
+	"list_child.h"
+
+1525067931 c:\users\ryankoko\downloads\tubes\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+	"list_relasi.h"
+
+1525150497 c:\users\ryankoko\downloads\tubes\tubes\list_parent.h
+	<iostream>
+
+1525067931 c:\users\ryankoko\downloads\tubes\tubes\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1525153106 source:c:\users\ryankoko\downloads\tubes\tubes\list_parent.cpp
+	"list_parent.h"
+
+1525151699 source:c:\users\ryankoko\downloads\tubes\tubes\list_relasi.cpp
+	"list_relasi.h"
+
+1525157715 source:c:\users\ryankoko\downloads\tubes\tubes\main.cpp
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+	"sub_main.h"
+
+1525158124 c:\users\ryankoko\downloads\tubes\tubes\sub_main.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+
+1525158159 source:c:\users\ryankoko\downloads\tubes\tubes\sub_main.cpp
+	"sub_main.h"
+
+1525155368 source:c:\users\ryan\downloads\tubes fix pisan\tubes\list_child.cpp
+	"list_child.h"
+
+1525067931 c:\users\ryan\downloads\tubes fix pisan\tubes\list_child.h
+	<iostream>
+	"list_parent.h"
+	"list_relasi.h"
+
+1525150497 c:\users\ryan\downloads\tubes fix pisan\tubes\list_parent.h
+	<iostream>
+
+1525432628 c:\users\ryan\downloads\tubes fix pisan\tubes\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1525429984 source:c:\users\ryan\downloads\tubes fix pisan\tubes\list_parent.cpp
+	"list_parent.h"
+
+1525432801 source:c:\users\ryan\downloads\tubes fix pisan\tubes\list_relasi.cpp
+	"list_relasi.h"
+
+1525426570 source:c:\users\ryan\downloads\tubes fix pisan\tubes\main.cpp
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+	"sub_main.h"
+
+1525428820 c:\users\ryan\downloads\tubes fix pisan\tubes\sub_main.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+
+1525433481 source:c:\users\ryan\downloads\tubes fix pisan\tubes\sub_main.cpp
+	"sub_main.h"
+
